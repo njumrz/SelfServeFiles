@@ -1,12 +1,12 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top/duo",
-            "name": "🆔应用多多"
+            "url": "http://www.饭太硬.top/tv/",
+            "name": "🍚饭太硬🍚"
         },
         {
-            "url": "http://饭太硬.top/tv",
-            "name": "🍚饭太硬🍚"
+            "url": "https://www.baipiaoys.com:9092/tv",
+            "name": "白嫖"
         },
         {
             "url": "http://xhww.fun/小米/DEMO.json",
@@ -15,6 +15,10 @@
         {
             "url": "https://jihulab.com/okcaptain/kko/raw/main/ok.txt",
             "name": "OkJack"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
+            "name": "王二小"
         },
         {
             "url": "https://100km.top/0",
@@ -29,10 +33,6 @@
             "name": "PG one"
         },
         {
-            "url": " https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风"
-        },
-        {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅晴"
         },
@@ -43,6 +43,22 @@
         {
             "url": "http://bp.tvbox.cam/",
             "name": "小白"
+        },
+        {
+            "url": "http://fan.xxooo.cf/tv",
+            "name": "饭太硬-备1"
+        },
+        {
+            "url": "http://fan.888484.xyz/tv",
+            "name": "饭太硬-备2"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "🆔应用多多"
+        },
+        {
+            "url": " https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风"
         }
     ],
     "rules": [
