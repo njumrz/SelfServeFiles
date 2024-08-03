@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://www.饭太硬.com/tv/",
+            "url": "http://www.饭太硬.com/tv",
             "name": "🍚饭太硬🍚"
         },
         {
@@ -9,7 +9,7 @@
             "name": "白嫖"
         },
         {
-            "url": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+            "url": "https://www.mpanso.com/小米/DEMO.json",
             "name": "🌾小米线路🌾"
         },
         {
@@ -21,7 +21,7 @@
             "name": "Ok吊炸天"
         },
         {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "王二小"
         },
         {
@@ -33,11 +33,11 @@
             "name": "肥猫"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
             "name": "PG one"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅晴"
         },
         {
@@ -49,11 +49,19 @@
             "name": "小白"
         },
         {
-            "url": "http://fan.xxooo.cf/tv",
+            "url": "http://饭太硬.com/tv",
+            "name": "饭太硬-备3"
+        },
+        {
+            "url": "http://饭.eu.org/tv",
+            "name": "饭太硬-备4"
+        },
+        {
+            "url": "http://fty.xxooo.cf/tv",
             "name": "饭太硬-备1"
         },
         {
-            "url": "http://fan.888484.xyz/tv",
+            "url": "http://fty.888484.xyz/tv",
             "name": "饭太硬-备2"
         },
         {
