@@ -59,8 +59,12 @@
             "name": "小白"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+            "url": "https://cdn.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
             "name": "直播：yuanzl77-备1"
+        },
+        {
+            "url": "https://tv.iill.top/m3u/Live",
+            "name": "直播：YanG-1989-直播间"
         },
         {
             "url": "http://饭太硬.com/tv",
@@ -79,12 +83,8 @@
             "name": "饭太硬-备2"
         },
         {
-            "url": "https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
-            "name": "广播FM：范明明"
-        },
-        {
             "url": "https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
-            "name": "广播综合：范明明"
+            "name": "广播：范明明"
         }
     ],
     "rules": [
