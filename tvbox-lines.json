@@ -19,18 +19,6 @@
             "name": "🍚饭太硬🍚"
         },
         {
-            "url": "https://www.baipiaoys.com:9092/tv",
-            "name": "白嫖"
-        },
-        {
-            "url": "https://www.mpanso.com/小米/DEMO.json",
-            "name": "🌾小米线路🌾"
-        },
-        {
-            "url": "https://jihulab.com/okcaptain/kko/raw/main/ok.txt",
-            "name": "OkJack"
-        },
-        {
             "url": "http://ok321.top/tv",
             "name": "Ok吊炸天"
         },
@@ -39,8 +27,32 @@
             "name": "肥猫"
         },
         {
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "name": "直播：范明明ipv6"
+        },
+        {
+            "url": " http://175.178.251.183:6689/tv.txt",
+            "name": "直播：yuanzl77"
+        },
+        {
+            "url": " https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "name": "直播：YanG-1989-综合"
+        },
+        {
             "url": "https://安卓哥.com/ZB",
-            "name": "安卓哥直播"
+            "name": "直播：安卓哥"
+        },
+        {
+            "url": "https://tv.iill.top/m3u/Live",
+            "name": "直播：YanG-1989-主播"
+        },
+        {
+            "url": "https://tv.iill.top/m3u/Adult",
+            "name": "直播：YanG-1989-成人"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+            "name": "PG one"
         },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
@@ -51,20 +63,16 @@
             "name": "骚零"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-            "name": "PG one"
-        },
-        {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅晴"
         },
         {
-            "url": "http://tv.nxog.top.m/",
-            "name": "讴歌"
-        },
-        {
             "url": "http://bp.tvbox.cam/",
             "name": "小白"
+        },
+        {
+            "url": " https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+            "name": "直播：yuanzl77-备1"
         },
         {
             "url": "http://饭太硬.com/tv",
@@ -81,14 +89,6 @@
         {
             "url": "http://fty.888484.xyz/tv",
             "name": "饭太硬-备2"
-        },
-        {
-            "url": "https://yydsys.top/duo",
-            "name": "🆔应用多多"
-        },
-        {
-            "url": " https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风"
         }
     ],
     "rules": [
