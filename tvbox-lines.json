@@ -1,4 +1,18 @@
 {
+    "lives": [
+        {
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "name": "范明明ipv6"
+        },
+        {
+            "url": " http://175.178.251.183:6689/tv.txt",
+            "name": "yuanzl77"
+        },
+        {
+            "url": " https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "name": "YanG-1989-综合"
+        }
+    ],
     "urls": [
         {
             "url": "http://www.饭太硬.com/tv",
