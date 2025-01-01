@@ -23,8 +23,12 @@
             "name": "肥猫"
         },
         {
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
             "name": "直播：范明明ipv6"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u",
+            "name": "直播：范明明itv"
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u",
@@ -59,7 +63,7 @@
             "name": "小白"
         },
         {
-            "url": "https://cdn.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
+            "url": "http://175.178.251.183:6689/live.m3u",
             "name": "直播：yuanzl77-备1"
         },
         {
