@@ -23,11 +23,11 @@
             "name": "肥猫"
         },
         {
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "name": "直播：范明明ipv6"
         },
         {
-            "url": "http://175.178.251.183:6689/tv.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u",
             "name": "直播：yuanzl77"
         },
         {
@@ -65,6 +65,10 @@
         {
             "url": "https://tv.iill.top/m3u/Live",
             "name": "直播：YanG-1989-直播间"
+        },
+        {
+            "url": "https://tv.iill.top/m3u/MyTV",
+            "name": "直播：YanG-1989-MyTV"
         },
         {
             "url": "http://饭太硬.com/tv",
