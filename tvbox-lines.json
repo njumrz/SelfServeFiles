@@ -23,6 +23,18 @@
             "name": "肥猫"
         },
         {
+            "url": "http://192.168.1.110:35455/tv.m3u",
+            "name": "直播：本地tv"
+        },
+        {
+            "url": "http://192.168.1.110:35455/bililive.m3u",
+            "name": "直播：本地bililive"
+        },
+        {
+            "url": "http://192.168.1.110:35455/yylunbo.m3u",
+            "name": "直播：本地YY轮播"
+        },
+        {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
             "name": "直播：范明明ipv6"
         },
