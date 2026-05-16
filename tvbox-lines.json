@@ -8,58 +8,50 @@
             "url": "https://tv.iill.top/m3u/Adult",
             "name": "直播：YanG-1989-成人"
         },
-    ],
-    "urls": [
         {
-            "url": "http://www.饭太硬.net/tv",
-            "name": "🍚饭太硬🍚"
-        },
-        {
-            "url": "http://ok321.top/tv",
-            "name": "Ok吊炸天"
-        },
-        {
-            "url": "http://肥猫.com/",
-            "name": "肥猫"
-        },
-        {
-            "url": "http://192.168.1.110:35455/tv.m3u",
-            "name": "直播：本地tv"
-        },
-        {
-            "url": "http://192.168.1.110:35455/bililive.m3u",
-            "name": "直播：本地bililive"
-        },
-        {
-            "url": "http://192.168.1.110:35455/yylunbo.m3u",
-            "name": "直播：本地YY轮播"
-        },
-        {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
             "name": "直播：范明明ipv6"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u",
             "name": "直播：范明明itv"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u",
             "name": "直播：yuanzl77"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
             "name": "直播：YanG-1989-综合"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
             "name": "直播：YueChan"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-            "name": "PG one"
+            "url": "http://175.178.251.183:6689/live.m3u",
+            "name": "直播：yuanzl77-备1"
         },
         {
-            "url": "https://mpanso.me/DEMO.json",
+            "url": "https://tv.iill.top/m3u/MyTV",
+            "name": "直播：YanG-1989-MyTV"
+        }
+    ],
+    "urls": [
+        {
+            "url": "http://www.饭太硬.cc/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://fty.xxooo.cf/tv",
+            "name": "饭太硬备用"
+        },
+        {
+            "url": "https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp",
+            "name": "饭太硬备用"
+        },
+        {
+            "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
             "name": "小米"
         },
         {
@@ -67,48 +59,16 @@
             "name": "王二小"
         },
         {
-            "url": "https://100km.top/0",
-            "name": "骚零"
+            "url": "http://ok213.top/tv",
+            "name": "jack老师"
         },
         {
-            "url": "http://bp.tvbox.cam/",
-            "name": "小白"
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技"
         },
         {
-            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-            "name": "饭太硬-江苏"
-        },
-        {
-            "url": "http://175.178.251.183:6689/live.m3u",
-            "name": "直播：yuanzl77-备1"
-        },
-        {
-            "url": "https://tv.iill.top/m3u/Live",
-            "name": "直播：YanG-1989-直播间"
-        },
-        {
-            "url": "https://tv.iill.top/m3u/MyTV",
-            "name": "直播：YanG-1989-MyTV"
-        },
-        {
-            "url": "http://饭太硬.com/tv",
-            "name": "饭太硬-备1"
-        },
-        {
-            "url": "http://饭太硬.xyz/tv",
-            "name": "饭太硬-备2"
-        },
-        {
-            "url": "http://fty.xxooo.cf/tv",
-            "name": "饭太硬-备3"
-        },
-        {
-            "url": "http://miqk.cc/小米/DEMO.json",
-            "name": "小米-备1"
-        },
-        {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
-            "name": "广播：范明明"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "南风"
         }
     ],
     "rules": [
